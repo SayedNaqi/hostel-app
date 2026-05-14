@@ -32,10 +32,6 @@ npm run doctor
 npm run typecheck
 ```
 
-# Welcome to OnSpace AI
-
-Onspace AI empowers anyone to turn ideas into powerful AI applications in minutes—no coding required. Our free, no-code platform enables effortless creation of custom AI apps; simply describe your vision and our agentic AI handles the rest. The onspace-app, built with React Native and Expo, demonstrates this capability—integrating popular third-party libraries to deliver seamless cross-platform performance across iOS, Android, and Web environments.
-
 ## Getting Started
 
 ### 1. Install Dependencies
